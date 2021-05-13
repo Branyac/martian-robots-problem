@@ -1,7 +1,7 @@
-﻿using System;
+﻿using MartianRobots.Domain.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using MartianRobots.Domain.Interfaces;
 
 namespace MartianRobots.Domain.Implementations
 {

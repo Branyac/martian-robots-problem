@@ -1,11 +1,11 @@
-﻿using System;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using MartianRobots.Domain.Implementations;
+﻿using MartianRobots.Domain.Implementations;
 using MartianRobots.Domain.Interfaces;
 using MartianRobots.Domain.Models;
 using SimpleInjector;
+using System;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace MartianRobots.App
 {

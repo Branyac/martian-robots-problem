@@ -1,13 +1,13 @@
-﻿using System.Collections.Generic;
-using System.Threading.Tasks;
-using MartianRobots.Domain.Interfaces;
+﻿using MartianRobots.Domain.Interfaces;
 using MartianRobots.Domain.Models;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace MartianRobots.Domain.Implementations
 {
     public class ScentPointsService : IScentPointsService
     {
-        private List<Point> _scentPoints = new List<Point>();
+        private readonly List<Point> _scentPoints = new List<Point>();
 
         public async Task Add(Point coordinate)
         {

@@ -1,6 +1,6 @@
-﻿using System;
+﻿using MartianRobots.Domain.Models;
+using System;
 using System.Threading.Tasks;
-using MartianRobots.Domain.Models;
 
 namespace MartianRobots.Domain.Interfaces
 {

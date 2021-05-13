@@ -1,10 +1,10 @@
-﻿using System;
-using System.Threading.Tasks;
-using FluentAssertions;
+﻿using FluentAssertions;
 using MartianRobots.Domain.Implementations;
 using MartianRobots.Domain.Interfaces;
 using MartianRobots.Domain.Models;
 using Moq;
+using System;
+using System.Threading.Tasks;
 using Xunit;
 
 namespace MartianRobots.Domain.Tests.Implementations

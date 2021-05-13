@@ -1,6 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
-
-namespace MartianRobots.Domain.Models
+﻿namespace MartianRobots.Domain.Models
 {
     public enum Orientations
     {

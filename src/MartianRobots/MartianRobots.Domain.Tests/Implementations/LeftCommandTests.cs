@@ -1,8 +1,8 @@
-﻿using System.Threading.Tasks;
-using AutoFixture;
+﻿using AutoFixture;
 using FluentAssertions;
 using MartianRobots.Domain.Implementations;
 using MartianRobots.Domain.Models;
+using System.Threading.Tasks;
 using Xunit;
 
 namespace MartianRobots.Domain.Tests.Implementations

@@ -1,6 +1,5 @@
-﻿using System.Diagnostics.CodeAnalysis;
+﻿using MartianRobots.Domain.Models;
 using System.Text;
-using MartianRobots.Domain.Models;
 
 namespace MartianRobots.Domain.Implementations
 {

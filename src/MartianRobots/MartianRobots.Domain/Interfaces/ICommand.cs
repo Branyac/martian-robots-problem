@@ -1,5 +1,5 @@
-﻿using System.Threading.Tasks;
-using MartianRobots.Domain.Implementations;
+﻿using MartianRobots.Domain.Implementations;
+using System.Threading.Tasks;
 
 namespace MartianRobots.Domain.Interfaces
 {
